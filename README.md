@@ -28,5 +28,5 @@ It includes a widget provider, manifest configuration, and resource files to dis
 
 Here’s how the MyWidget app looks on the home screen:
 
-![MyWidget Screenshot](Images/My_Widgets.png)
+![MyWidget Screenshot](Images/My_Widget.png)
 
